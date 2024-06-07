@@ -9,6 +9,16 @@
 
 </div><br>
 
+## Badge
+
+Este é um badge conquistado por ter desenvolvido este projeto com a Alura no programa ONE - "Oracle Next Education" em parceria com a Oracle:
+
+<div align="center">
+
+![Badge](img/badge%20literalura.png)
+
+</div>
+
 ### Instalação
 
 1. Clone o repositório:
