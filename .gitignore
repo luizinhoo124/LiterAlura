@@ -34,3 +34,5 @@ build/
 
 ### Scripts ###
 upload-to-github.bat
+mvnw
+mvnw.cmd
