@@ -59,8 +59,8 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/rodrigoborge/literalura.git
-cd literalura
+git clone https://github.com/luizinhoo124/LiterAlura.git
+cd LiterAlura
 ```
 
 ### 2. Configure o banco de dados PostgreSQL
@@ -201,11 +201,9 @@ O sistema permite consultas avançadas como:
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LICENSE para detalhes.
 
-## 👨‍💻 Autor
+## 👨‍💻 Desenvolvedor
 
-**Rodrigo Borge**
-- GitHub: [@rodrigoborge](https://github.com/rodrigoborge)
-- LinkedIn: [Rodrigo Borge](https://linkedin.com/in/rodrigoborge)
+Projeto desenvolvido como parte do **Challenge Oracle Next Education** em parceria com a **Alura**.
 
 ---
 
